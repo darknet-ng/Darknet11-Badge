@@ -1,8 +1,14 @@
 # Welcome Art and Hacks with DarknetNG
 
-First you start on the bottom right hand side
+## For the Darknet-NG badges
+ou can read about the parts and how things work here
+https://gulogulodesu.com/?p=119
 
-DSC_0085.JPG
+(Pictures will be uploaded soon)
+
+Steps:
+
+First you start on the bottom right hand side
 
 Take your tape and go from the VCC one to the bottom of the yellow line
 
