@@ -2,6 +2,8 @@
 
 First you start on the bottom right hand side
 
+DSC_0085.JPG
+
 Take your tape and go from the VCC one to the bottom of the yellow line
 
 Carefully peel the paper from the back of the copper tape
