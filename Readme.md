@@ -1,7 +1,8 @@
 # Welcome Art and Hacks with DarknetNG
 
 ## For the Darknet-NG badges
-ou can read about the parts and how things work here
+
+You can read about the parts and how things work here
 https://gulogulodesu.com/?p=119
 
 (Pictures will be uploaded soon)
