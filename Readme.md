@@ -7,7 +7,7 @@ https://gulogulodesu.com/?p=119
 
 (Pictures will be uploaded soon)
 
-Steps:
+## Steps:
 
 First you start on the bottom right hand side
 
